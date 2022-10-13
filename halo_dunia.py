@@ -9,3 +9,4 @@ Original file is located at
 
 print ("halo dunia!")
 print ("belajar AI!")
+print ("Yes!")
